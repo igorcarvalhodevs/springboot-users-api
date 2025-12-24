@@ -165,19 +165,19 @@ Utilizado para transferência de dados entre as camadas, evitando exposição di
 
 ### Possíveis Evoluções
 
-Implementação de cadastro de usuários (POST)
+- Implementação de cadastro de usuários (POST)
 
-Atualização e remoção de usuários (PUT / DELETE)
+- Atualização e remoção de usuários (PUT / DELETE)
 
-Validação de dados de entrada
+- Validação de dados de entrada
 
-Paginação e ordenação
+- Paginação e ordenação
 
-Integração com banco de dados relacional (PostgreSQL ou MySQL)
+- Integração com banco de dados relacional (PostgreSQL ou MySQL)
 
-Implementação de testes unitários
+- Implementação de testes unitários
 
-Documentação com Swagger/OpenAPI
+- Documentação com Swagger/OpenAPI
 
 ---
 
