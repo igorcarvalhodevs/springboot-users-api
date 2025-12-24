@@ -29,7 +29,7 @@ src/main/java/com/seu/pacote/projeto
 │   └── Objetos de transferência de dados
 ├── entity
 │   └── Entidades JPA mapeadas para o banco
-└── SpringBootUsersApiApplication.java
+└── UsersApiApplication.java
 ```
 
 ---
